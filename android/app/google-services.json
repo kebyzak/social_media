@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966491487117",
+    "project_id": "social-media-cf764",
+    "storage_bucket": "social-media-cf764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966491487117:android:da87a856a9315731f71bc4",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6Sy0b8DKndEARME_4oblgGTUtgO3eu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
